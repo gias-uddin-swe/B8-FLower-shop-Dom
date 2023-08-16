@@ -1,0 +1,16 @@
+.box{
+    width: 230px;
+    height:330px;
+    /* border: 1px solid red; */
+    box-shadow: 4px 4px 8px gray;
+}
+.box-img{
+    width: 100%;
+    height: 150px;
+}
+.box-btn{
+    padding: 5px 15px;
+    background-color:red;
+    border: none;
+    color: white;
+}
